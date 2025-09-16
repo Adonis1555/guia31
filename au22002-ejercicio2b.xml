@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="au22002-ejercicio2b.css" ?>
+<!-- carnet-ejercicio2b.xml  SUCARNET -->
+<pais nombre="El Salvador" moneda="$" codigo_telefonico="+503" idioma="esp">
+    <departamento id="1" nombre="San Salvador" region="Centro">
+        <cabecera>San Salvador</cabecera>
+        <habitantes>1,700,000</habitantes>
+        <altura>545 MSNM</altura>
+    </departamento>
+
+    <departamento id="2" nombre="La Libertad" region="Centro">
+        <cabecera>Santa Tecla</cabecera>
+        <habitantes>765,879</habitantes>
+        <altura>507 MSNM</altura>
+    </departamento>
+
+    <departamento id="3" nombre="Santa Ana" region="Occidente">
+        <cabecera>Santa Ana</cabecera>
+        <habitantes>613,000</habitantes>
+        <altura>665 MSNM</altura>
+    </departamento>
+</pais>

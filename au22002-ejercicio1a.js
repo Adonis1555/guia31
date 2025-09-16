@@ -1,0 +1,19 @@
+var ejercicio1a=JSON.parse({
+    "ficha": {
+        "@attributes": {
+            "id": "1",
+            "fechaingreso": "1/11/2012"
+        },
+        "nombre": "Adonis",
+        "apellido": "Aguilar",
+        "direccion": "Calle de Los Andes, 45"
+    },
+    "contacto": {
+        "telefono": "7068-4600",
+        "email": "au22002@ues.edu.sv",
+        "url": "campus.ues.edu.sv",
+        "#text": ">"
+    },
+    "#text": ">"
+})
+var ejercicio1aJSON=JSON.stringify(ejercicio1a);
